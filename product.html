@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Inter:regular,500,600,700"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style-min.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header class="header --transparent">
+        <div class="header__container">
+          <a href="index.html" class="header__arrow">
+            <img src="img/icons/arrow.svg" alt="" />
+          </a>
+
+          <a href="cart.html" class="header__cart">
+            <img src="img/icons/cart-2.svg" alt="" />
+          </a>
+        </div>
+      </header>
+      <main class="main">
+        <div class="product">
+          <div class="product__container">
+            <div class="product__image">
+              <img src="img/product/burger.png" alt="" />
+            </div>
+            <div class="product__main">
+              <div class="product__body body-product">
+                <div class="body-product__header">
+                  <h5 class="body-product__title">Бургер</h5>
+                  <p class="body-product__price">550 ₽</p>
+                </div>
+                <p class="body-product__text">
+                  Пшеничная булочка, говяжья котлета, плавленный сыр, томат,
+                  салат “Айсберг”, репчатый лук, соус бургер (майонез, кетчуп,
+                  лимонный сок, дижонская горчица) 
+                </p>
+                <button class="body-product__cart button">
+                  <span>В корзину</span>
+                </button>
+                <a href="" class="body-product__support button"
+                  ><span>Поддержка</span></a
+                >
+              </div>
+              <div class="product__recommend recommend-product">
+                <h2 class="recommend-product__title title">Рекомендуем</h2>
+                <div class="recommend-product__body catalog__items">
+                  <a href="product.html" class="catalog__item item-catalog">
+                    <img
+                      src="img/catalog/burger.png"
+                      alt=""
+                      class="item-catalog__image"
+                    />
+                    <h4 class="item-catalog__title">Бургер</h4>
+                    <p class="item-catalog__price">550 ₽</p>
+                  </a>
+                  <a href="product.html" class="catalog__item item-catalog">
+                    <img
+                      src="img/catalog/pizza.png"
+                      alt=""
+                      class="item-catalog__image"
+                    />
+                    <h4 class="item-catalog__title">Пицца</h4>
+                    <p class="item-catalog__price">550 ₽</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

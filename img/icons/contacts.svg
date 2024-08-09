@@ -1,0 +1,14 @@
+<svg width="20.000000" height="20.000000" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip14_674">
+			<rect id="mail-02" rx="-0.500000" width="19.000000" height="19.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="mail-02" rx="-0.500000" width="19.000000" height="19.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip14_674)">
+		<path id="Icon" d="M14.33 3.33C15.73 3.33 16.43 3.33 16.96 3.6C17.43 3.84 17.82 4.22 18.06 4.69C18.33 5.23 18.33 5.93 18.33 7.33L18.33 12.66C18.33 14.06 18.33 14.76 18.06 15.3C17.82 15.77 17.43 16.15 16.96 16.39C16.43 16.66 15.73 16.66 14.33 16.66L5.66 16.66C4.26 16.66 3.56 16.66 3.03 16.39C2.56 16.15 2.17 15.77 1.93 15.3C1.66 14.76 1.66 14.06 1.66 12.66L1.66 7.33C1.66 5.93 1.66 5.23 1.93 4.69C2.17 4.22 2.56 3.84 3.03 3.6C3.56 3.33 4.26 3.33 5.66 3.33L14.33 3.33ZM17.91 15L12.38 10M7.61 10L2.08 15M1.66 5.83L8.47 10.59C9.02 10.98 9.29 11.17 9.59 11.24C9.86 11.31 10.13 11.31 10.4 11.24C10.7 11.17 10.97 10.98 11.52 10.59L18.33 5.83" stroke="#343434" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
